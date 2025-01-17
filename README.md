@@ -1,15 +1,17 @@
-# smallzero-bot-lite
+# smallzero-bot-lite版本
 
-This a in discord's bot
+不會Code,卻想要自己做一個Discord Bot然後跟朋友裝自己超牛?
 
-By smallzeroL!
+這個Bot不失為一種好方案!
 
-Now Update Commands:
+拿著Bot Token,點幾下滑鼠就能用!
 
-botversion
+說明都是中文,不怕看不懂!
 
-ban
+不須寫一行代碼,只需要安裝環境!(附腳本安裝)
 
-kick
+不在顯眼的地方插入自家標示,高度自訂性!
 
-mute
+可以用工具顯示自訂狀態!
+
+會依照版本更新越多的指令!
