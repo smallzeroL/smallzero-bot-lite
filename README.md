@@ -42,6 +42,8 @@ pip install datetime
 
 pip install hashlib
 
+pip install asyncio
+
 (別問我怎麼那麼多,我編譯後我才發現我import多了💀)
 
 
